@@ -1,4 +1,4 @@
-# CA_LAB_MIPS_COMPUTER
+# CA_LAB MIPS COMPUTER
 basic mips computer implemented in VHDL
 
 =========
