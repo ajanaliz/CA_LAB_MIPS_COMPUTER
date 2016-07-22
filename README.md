@@ -2,6 +2,6 @@
 basic mips computer implemented in VHDL
 
 =========
-credits
+# credits
 
 Mohammadreza Shamshirgarha
